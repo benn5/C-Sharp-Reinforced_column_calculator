@@ -1,0 +1,63 @@
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Properties\Database1.mdf
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Properties\Database1_log.ldf
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Zadanie zaliczeniowe 3.exe.config
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Zadanie zaliczeniowe 3.exe
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Zadanie zaliczeniowe 3.pdb
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.csprojAssemblyReference.cache
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie_zaliczeniowe_3.Form1.resources
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie_zaliczeniowe_3.Properties.Resources.resources
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie_zaliczeniowe_3.WyboczenieWybor.resources
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.csproj.GenerateResource.cache
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.csproj.CoreCompileInputs.cache
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.exe
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.pdb
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Zadanie zaliczeniowe 3.exe.manifest
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Zadanie zaliczeniowe 3.application
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.exe.manifest
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.application
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\LocalTabBet.mdf
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\LocalTabBet_log.ldf
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\LocalMetTab.mdf
+C:\Users\Benedykt Karwiński\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\LocalMetTab_log.ldf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\LocalMetTab.mdf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\LocalMetTab_log.ldf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\LocalTabBet.mdf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\LocalTabBet_log.ldf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Properties\Database1.mdf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Properties\Database1_log.ldf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Zadanie zaliczeniowe 3.exe.config
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Zadanie zaliczeniowe 3.exe.manifest
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Zadanie zaliczeniowe 3.application
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Zadanie zaliczeniowe 3.exe
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\bin\Release\Zadanie zaliczeniowe 3.pdb
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.csprojAssemblyReference.cache
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie_zaliczeniowe_3.Form1.resources
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie_zaliczeniowe_3.Properties.Resources.resources
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie_zaliczeniowe_3.WyboczenieWybor.resources
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.csproj.GenerateResource.cache
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.csproj.CoreCompileInputs.cache
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.exe.manifest
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.application
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.exe
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 3 — kopia\obj\Release\Zadanie zaliczeniowe 3.pdb
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\bin\Release\LocalMetTab.mdf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\bin\Release\LocalMetTab_log.ldf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\bin\Release\LocalTabBet.mdf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\bin\Release\LocalTabBet_log.ldf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\bin\Release\Properties\Database1.mdf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\bin\Release\Properties\Database1_log.ldf
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\bin\Release\Zadanie zaliczeniowe 3.exe.config
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\bin\Release\Zadanie zaliczeniowe 3.exe.manifest
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\bin\Release\Zadanie zaliczeniowe 3.application
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\bin\Release\Zadanie zaliczeniowe 3.exe
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\bin\Release\Zadanie zaliczeniowe 3.pdb
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\obj\Release\Zadanie zaliczeniowe 3.csprojAssemblyReference.cache
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\obj\Release\Zadanie_zaliczeniowe_3.Form1.resources
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\obj\Release\Zadanie_zaliczeniowe_3.Properties.Resources.resources
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\obj\Release\Zadanie_zaliczeniowe_3.WyboczenieWybor.resources
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\obj\Release\Zadanie zaliczeniowe 3.csproj.GenerateResource.cache
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\obj\Release\Zadanie zaliczeniowe 3.csproj.CoreCompileInputs.cache
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\obj\Release\Zadanie zaliczeniowe 3.exe.manifest
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\obj\Release\Zadanie zaliczeniowe 3.application
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\obj\Release\Zadanie zaliczeniowe 3.exe
+C:\Users\benek\OneDrive\Uczelnia\Semestr II\Programowanie obiektowe\Labki\Zadanie zaliczeniowe 2\obj\Release\Zadanie zaliczeniowe 3.pdb
